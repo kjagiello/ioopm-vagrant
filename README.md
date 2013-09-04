@@ -8,7 +8,6 @@ Contains
 
 * gcc 4.4.3
 * emacs 23.1.1
-* pdflatex 
 * gdb 7.1
 * valgrind 3.6.0
 * git 1.7.0.4
